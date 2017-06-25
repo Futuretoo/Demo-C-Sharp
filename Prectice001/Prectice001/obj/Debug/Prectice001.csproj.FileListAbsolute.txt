@@ -1,0 +1,6 @@
+Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\bin\Debug\Prectice001.exe.config
+Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\bin\Debug\Prectice001.exe
+Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\bin\Debug\Prectice001.pdb
+Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\obj\Debug\Prectice001.csprojResolveAssemblyReference.cache
+Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\obj\Debug\Prectice001.exe
+Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\obj\Debug\Prectice001.pdb
