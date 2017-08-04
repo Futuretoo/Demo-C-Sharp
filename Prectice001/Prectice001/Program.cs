@@ -9,12 +9,12 @@ namespace Prectice001
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            //getDate();
-            MatchName();
-            Console.ReadKey();
-        }
+        //static void Main(string[] args)
+        //{
+        //    //getDate();
+        //    MatchName();
+        //    Console.ReadKey();
+        //}
 
         public static void getDate()
         {

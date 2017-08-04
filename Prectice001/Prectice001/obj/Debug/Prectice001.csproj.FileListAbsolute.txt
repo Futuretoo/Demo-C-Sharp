@@ -4,3 +4,8 @@ Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\bin\Debug
 Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\obj\Debug\Prectice001.csprojResolveAssemblyReference.cache
 Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\obj\Debug\Prectice001.exe
 Y:\Documents\code practice\GitHub\Demo-C-Sharp\Prectice001\Prectice001\obj\Debug\Prectice001.pdb
+\\Mac\Home\Documents\code practice\GitHub\Demo002\Prectice001\Prectice001\bin\Debug\Prectice001.exe.config
+\\Mac\Home\Documents\code practice\GitHub\Demo002\Prectice001\Prectice001\obj\Debug\Prectice001.exe
+\\Mac\Home\Documents\code practice\GitHub\Demo002\Prectice001\Prectice001\obj\Debug\Prectice001.pdb
+\\Mac\Home\Documents\code practice\GitHub\Demo002\Prectice001\Prectice001\bin\Debug\Prectice001.exe
+\\Mac\Home\Documents\code practice\GitHub\Demo002\Prectice001\Prectice001\bin\Debug\Prectice001.pdb
